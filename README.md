@@ -53,13 +53,10 @@ Each device processes the channel values relevant to its configured DMX address.
 - **IDE:** STM32CubeIDE
 - **Firmware Library:** STM32 HAL
 
-### Repository Contents
+### Related Projects
 
-This repository contains the DMX receiver firmware source code, STM32CubeIDE project configuration, and supporting driver files.
-
-### Hardware Schematic (Optional)
-
-[View the DMX Device receiver schematic](INSERT_SCHEMATIC_LINK_HERE)
+- **DMXScenarioDesigner - PC Application:** [DMX_DMXScenarioDesigner_application](https://github.com/uienle/DMX_DMXScenarioDesigner_application)
+- **DMX Controller - Tx Firmware :** [DMX_STM32-Controller](https://github.com/uienle/DMX_STM32-Controller)
 
 ---
 
@@ -112,10 +109,7 @@ Mỗi thiết bị xử lý các giá trị kênh tương ứng với địa ch�
 - **IDE:** STM32CubeIDE
 - **Thư viện firmware:** STM32 HAL
 
-### Nội dung repository
+### Các dự án liên quan
 
-Repository bao gồm mã nguồn firmware nhận DMX512, các file cấu hình dự án STM32CubeIDE và các file driver hỗ trợ.
-
-### Sơ đồ nguyên lý phần cứng (Tùy chọn)
-
-[Xem schematic mạch nhận DMX của thiết bị](INSERT_SCHEMATIC_LINK_HERE)
+- **DMXScenarioDesigner — Ứng dụng PC:** [DMX_DMXScenarioDesigner_application](https://github.com/uienle/DMX_DMXScenarioDesigner_application)
+- **DMX Controller - Tx Firmware :** [DMX_STM32-Controller](https://github.com/uienle/DMX_STM32-Controller)
